@@ -7,7 +7,7 @@ L’aventure se passe dans un monde fantastique et médiéval, pour être plus p
 ---
 ## L'objectif du projet
 
-L'objectif principal du projet est de retranscrire au maximum l'idée de jeu de plateau, c'est pour cela que nous pouvons choisir la carte que nous voulons lorsqu'on change de salle, cela permet au joueur de créer petit à petit le plateau du jeu. De plus, nous pensons qu'il n'y a pas assez de jeu qui retranscrise le jeu de rôle "Donjon et dragons" et nous pensions retranscrire au minimum possible ce jeu qui reste très populaire de nos jours. Si vous voulez plus d'informations concernant le projet je vous laisse le dossier de conception que nous avons fait
+L'objectif principal du projet est de retranscrire au maximum l'idée de jeu de plateau, c'est pour cela que nous pouvons choisir la carte que nous voulons lorsqu'on change de salle, cela permet au joueur de créer petit à petit le plateau du jeu. De plus, nous pensons qu'il n'y a pas assez de jeu qui retranscrise le jeu de rôle "Donjon et dragons" et nous pensions retranscrire au minimum possible ce jeu qui reste très populaire de nos jours. Si vous voulez plus d'informations concernant le projet je vous laisse le dossier de conception que nous avons fait.  
 Règle du jeu : https://docs.google.com/document/d/1h8pqb_9ItyXSKTyZwdC9opZXKZxRBNwHd-cHCueTbyc/edit?usp=sharing  
 Dossier de conception : https://docs.google.com/document/d/1SenDUb3MwScFII7auaN2CTRyqIOpCoeoCWxXhttEMh4/edit?usp=sharing
 
@@ -25,8 +25,8 @@ L'équipe est constituée de 6 étudiants :
 ---
 ## Pour jouer au jeu
 
-Il a deux façon de joueur au jeu.
-Tout d'abord si vous avez la version 2020.2.7f1 d'installée, vous pouvez pull le projet et l'ajouter à vos projets unity et y jouez directement depuis Unity.
+Il a deux façon de joueur au jeu.  
+Tout d'abord si vous avez la version 2020.2.7f1 d'installée, vous pouvez pull le projet et l'ajouter à vos projets unity et y jouez directement depuis Unity.  
 Sinon, vous pouvez télecharger le projet à l'endroit que vous voulez sur votre ordinateur et double cliquez sur le The legend of Jaloux jeu.exe dans le dossier ça lancera le jeu sans avoir besoin d'unity.
 
 ---
