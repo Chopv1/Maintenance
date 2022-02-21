@@ -8,7 +8,7 @@ L’aventure se passe dans un monde fantastique et médiéval, pour être plus p
 ## L'objectif du projet
 
 L'objectif principal du projet est de retranscrire au maximum l'idée de jeu de plateau, c'est pour cela que nous pouvons choisir la carte que nous voulons lorsqu'on change de salle, cela permet au joueur de créer petit à petit le plateau du jeu. De plus, nous pensons qu'il n'y a pas assez de jeu qui retranscrise le jeu de rôle "Donjon et dragons" et nous pensions retranscrire au minimum possible ce jeu qui reste très populaire de nos jours. Si vous voulez plus d'informations concernant le projet je vous laisse le dossier de conception que nous avons fait
-Règle du jeu : https://docs.google.com/document/d/1h8pqb_9ItyXSKTyZwdC9opZXKZxRBNwHd-cHCueTbyc/edit?usp=sharing
+Règle du jeu : https://docs.google.com/document/d/1h8pqb_9ItyXSKTyZwdC9opZXKZxRBNwHd-cHCueTbyc/edit?usp=sharing  
 Dossier de conception : https://docs.google.com/document/d/1SenDUb3MwScFII7auaN2CTRyqIOpCoeoCWxXhttEMh4/edit?usp=sharing
 
 ---
