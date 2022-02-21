@@ -36,4 +36,4 @@ Le jeu n'est malheureusement pas jouable actuellement. En effet, il existe certa
 
 ## Crédit
 
-Nous remercions notre tuteur, Christophe Jaloux, durant ce projet qui nous a encadré durant ce projet en nous aidant à faire les bonnes décision lorsqu'il était nécessaire.
+Nous remercions notre tuteur, Christophe Jaloux,qui nous a encadré durant ce projet en nous aidant à faire les bonnes décision lorsqu'il était nécessaire.
