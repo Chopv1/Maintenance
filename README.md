@@ -10,3 +10,6 @@ Porfolio : manoel-nohra.fr
 - J'ai build le projet permettant à n'importe qui de jouer au jeu grâce à un exécutable.
 - J'ai résolu certain bug qui gâchait l'immersion dans le jeu, comme la selection du héro ou des ennemies qui ne se passait pas correctement par moment, de même pour la deuxième compétence.
 - J'ai tenté de résoudre un crash lorsqu'on change de salle qui survint sans succès.
+
+### Deuxième maintenance portera sur un site internet fait grâce à symfony 
+
