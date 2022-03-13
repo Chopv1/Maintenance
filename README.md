@@ -11,5 +11,11 @@ Porfolio : manoel-nohra.fr
 - J'ai résolu certain bug qui gâchait l'immersion dans le jeu, comme la selection du héro ou des ennemies qui ne se passait pas correctement par moment, de même pour la deuxième compétence.
 - J'ai tenté de résoudre un crash lorsqu'on change de salle qui survint sans succès.
 
-### Deuxième maintenance portera sur un site internet fait grâce à symfony 
+### Deuxième maintenance portera sur un jeu vidéo sur unity
+
+- J'ai ajouté des ennemis statique pour le moment
+- J'ai ajouté des interfaces graphiques pour rendre le jeu plus interactif
+- Le joueur peut attaquer les ennemis et leur infliger des dégâts
+- J'ai créé un niveau avec un début et un fin
+- Le jeu se termine lorque le joueur tombe dans le vide ou atteint l'objectif
 
