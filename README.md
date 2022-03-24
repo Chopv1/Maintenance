@@ -19,3 +19,5 @@ Porfolio : manoel-nohra.fr
 - J'ai créé un niveau avec un début et un fin
 - Le jeu se termine lorque le joueur tombe dans le vide ou atteint l'objectif
 
+### Troisième maintenance portera sur mon projet de spécialisation, un first person shooter (FPS) sur unreal engine
+
